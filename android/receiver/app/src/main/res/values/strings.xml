@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="clear">Clear</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_custom_msg">Send custom broadcast</string>
+</resources>
